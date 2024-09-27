@@ -80,12 +80,6 @@ tagtree:
 welcome:
   layout: markdown
   title: 欢迎探索者：
-#  linklist: # 与 linklist 组件写法相同
-#    columns: 1
-#    items:
-#      - icon:
-#        title:
-#        url:
   content:
     <p></p>
     <center>忠于生活</center>
