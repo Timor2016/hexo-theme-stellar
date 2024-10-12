@@ -67,7 +67,7 @@ site_tree:
     leftbar: welcome, recent # for categories/tags/archives
     rightbar:
     nav_tabs: # 近期发布 分类 标签 专栏 归档 and ...
-#      '朋友文章': /friends/rss/
+  #      '朋友文章': /friends/rss/
   # 博客专栏列表页配置
   index_topic:
     base_dir: topic # 只影响自动生成的页面路径
@@ -283,7 +283,7 @@ comments:
       # fileName: image
       # tokenName: token
       # api: https://xxxxxx/api/upload
-      # token: xxxxxxxxxxxxxx
+    # token: xxxxxxxxxxxxxx
     # resp: data.url
     #   fileName: # 根据版本二选一
     #   tokenName: # 根据版本二选一
